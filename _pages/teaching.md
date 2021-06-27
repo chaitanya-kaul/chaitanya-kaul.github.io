@@ -13,7 +13,7 @@ I am involved in a range of teaching and supervision activities.
 Research Assistants (University of Glasgow, School of Mathematics and Statistics)
 ======
 
-* Athanasios Tragakis (Project: Diabetic Retinopathy Detection, 2020-2021)
+* Athanasios Tragakis (Project: Diabetic Retinopathy Detection, 2021-Present)
 
 
 
