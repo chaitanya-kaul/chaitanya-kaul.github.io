@@ -19,4 +19,4 @@ United Kingdom
 
 Email - 
 
-Chaitanya.Kaul@glasgow.ac.uk
+Chaitanya[dot]Kaul[at]glasgow.ac.uk
