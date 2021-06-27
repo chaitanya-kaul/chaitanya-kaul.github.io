@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of York, 2019
+* M.Sc.in Electrical and Electronics Engineering, Coventry University, 2016
+* B.E. in Electronics and Communicatipon Engineering, Thapar University, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2019 - Present: Research Associate (School of Computing Science), Lecturer (School of Mathematics and Statistics)
+  * University of Glasgow
+  * PostDoc Project: [Adversarial Testing of Machine Learning Algorithms](https://icaird.com/)
+  * Manager: [Prof. Roderick Murray-Smith](http://www.dcs.gla.ac.uk/~rod/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 2017 - June 2018: Research Assistant
+  * University of York
+  * Project: Diabetic Retinopathy Detection using Deep Learning
+  * Supervisor: [Dr Suresh Manandhar](https://www.linkedin.com/in/sureshmanandhar/?originalSubdomain=uk)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Apr 2015 - Sep 2015: Research Assistant
+  * Coventry University
+  * Project: Parallelizing Disparity Calculation in Stereo Vision 
+  * Supervisor: [Dr Andrew Jason Tickle](https://www.linkedin.com/in/dr-andrew-jason-tickle-17253759/)
+  
 
-Publications
+Research Interests
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Privacy Preserving Machine Learning
+* Explainable AI
+* 2D and 3D Medical Image Analysis
+* 3D Shape Analysis
