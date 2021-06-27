@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-
+I am involved in a range of teaching and supervision activities.
 
 Research Assistant (University of Glasgow, School of Mathematics and Statistics)
 ======
