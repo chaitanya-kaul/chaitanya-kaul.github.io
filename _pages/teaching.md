@@ -36,8 +36,8 @@ Project Supervisions (University of Glasgow, School of Mathematics and Statistic
 Lecturer (University of Glasgow, School of Mathematics and Statistics)
 ======
 
-* Large Scale Computing for Data Analytics (M.Sc. Data Analytics, 2019-2020)
 * Data Programming in Python (M.Sc. Data Analytics, 2020-2021)
+* Large Scale Computing for Data Analytics (M.Sc. Data Analytics, 2019-2020)
 
 
 
