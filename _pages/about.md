@@ -17,3 +17,5 @@ I am presently working as a Research Associate in the School of Computing Scienc
 
 I did my Ph.D. at the Department of Computer Science in the University of York under the guidance of [Dr Nick Pears](https://www-users.cs.york.ac.uk/np7/) and [Dr Suresh Manandhar](https://www.linkedin.com/in/sureshmanandhar/?originalSubdomain=uk). My Ph.D. involved creating novel Deep Learning architectures for solving Medical Imaging and 3D Shape Analysis tasks using visual attention mechanisms.
 
+I am interested in using Artificial Intelligence to solve problems in Healthcare. This includes understanding, assessing and evaluating the privacy of machine learning models trained on healthcare data, creating machine learning methods to solve medical imaging problems, interpreting and explaining machine learning models, and shape analysis in medical imaging. 
+
