@@ -9,14 +9,14 @@ author_profile: true
 
 Office - 
 
-SAWB 320
-Sir Alwyn Williams Building
-School of Computing Science
-University of Glasgow
-Glasgow G12 8RZ
-Scotland
+SAWB 320<br/>
+Sir Alwyn Williams Building<br/>
+School of Computing Science<br/>
+University of Glasgow<br/>
+Glasgow G12 8RZ<br/>
+Scotland<br/>
 United Kingdom
 
 Email - 
 
-Chaitanya[dot]Kaul[at]glasgow.ac.uk
+Chaitanya [dot] Kaul [at] glasgow.ac.uk
